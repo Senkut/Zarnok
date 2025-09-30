@@ -1,0 +1,35 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Tt]extureCache/
+UserSettings/
+Packages/com.unity.package-manager/
+
+# Archivos del sistema
+.DS_Store
+*.swp
+*.tmp
+
+# Visual Studio
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+
+# Crash reports
+sysinfo.txt
+
+# Otros
+*.apk
+*.aab
+*.unitypackage
